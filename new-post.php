@@ -39,7 +39,7 @@ if (isset($_POST['submit-new-post'])) {
   <input type="text" name="excerpt" id="excerpt" value="<?php echo $excerpt; ?>" />
 
   <label for=" content">Contenido</label>
-  <textarea name="content" id="content" cols="30" rows="30"> <?php echo $content; ?> </textarea>
+  <textarea name="content" cols="30" rows="30"> <?php echo $content; ?> </textarea>
 
   <p>
     <input type="submit" name="submit-new-post" id="title" value="New post" />

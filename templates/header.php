@@ -16,7 +16,7 @@
 
   <header id="header">
     <a class="site-logo" href="#">
-      <img src="assets/img/logo.svg" class="logo" alt="logo">
+      Mi primer CMS - Natalia Ramirez
     </a>
     <nav class="site-nav">
       <ul>
