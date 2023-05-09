@@ -13,11 +13,7 @@ if (isset($_GET['view'])) {
         $all_posts = [$post_found];
     };
 };
-
-
 ?>
-
-
 
 <div class="posts">
     <?php foreach ($all_posts as $post): ?>
@@ -46,6 +42,5 @@ if (isset($_GET['view'])) {
         </article>
     <?php endforeach ?>
 </div>
-
 
 <?php require('./templates/footer.php'); ?>

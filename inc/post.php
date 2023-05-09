@@ -24,7 +24,6 @@ function insert_post($title, $excertp, $content){
   } 
 };
 
-
 function get_post($post_id)
 {
   global $app_db;
@@ -35,4 +34,5 @@ function get_post($post_id)
   };
   return mysqli_fetch_assoc($result);
 };
+
 ?>

@@ -1,6 +1,5 @@
 </div>
 
-
 <footer id="footer">
   <div class="footer-content">
     <ul class="footer-social">
@@ -34,5 +33,4 @@
 </footer>
 
 </body>
-
 </html>

@@ -19,7 +19,6 @@ if (isset($_POST['submit-new-post'])) {
     insert_post($title, $excerpt, $content); 
   }
 }
-
 ?>
 
 <h2> Crear una nueva entrada </h2>
