@@ -1,10 +1,10 @@
-# Micro CMS
+# Micro CMS 📃
 
 Este es un micro CMS que fue desarrollado durante el curso de Programación Web con Software Libre de Proyecta Empleo. En este proyecto se utilizaron los siguientes lenguajes de programación: PHP, SQL, servidores web (MAMP), HTML y CSS.
 
 En este CMS podrás encontrar un blog con un listado de publicaciones, ver detalles de cada publicación y subir nuevas publicaciones. 
 
-## Instalación 
+## Instalación 💿
 Para instalar el micro CMS, necesitarás seguir los siguientes pasos:
 
 1. Descarga el proyecto: Descarga el proyecto desde el repositorio o clonándolo en tu computadora.
@@ -21,7 +21,7 @@ Para instalar el micro CMS, necesitarás seguir los siguientes pasos:
    
 7. Accede al sitio web: Abre tu navegador y visita la URL "localhost/nombre-de-la-carpeta-del-proyecto" para acceder al sitio web. Aquí podrás ver el listado de publicaciones y la opción para subir nuevas publicaciones.
 
-## Razones de uso 
+## Razones de uso 👩🏻‍🏭
 - Este proyecto fue diseñado para ser una herramienta de aprendizaje para aquellos que están empezando a programar en PHP y SQL, y puede ser utilizado como base para proyectos más grandes y complejos.
 - El CMS incluye un sistema básico de autenticación de usuarios para permitir a los administradores crear, editar y eliminar publicaciones.
 - El código fuente del proyecto está disponible públicamente en un repositorio de GitHub, lo que permite a los desarrolladores explorar, contribuir y mejorar el proyecto.
